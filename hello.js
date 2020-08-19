@@ -26,4 +26,8 @@ function four() {
 }
 
 
-// a comment
+// function five here
+// a new line of text under func 5aa
+function five() {
+  console.log('five !')
+}
