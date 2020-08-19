@@ -31,3 +31,7 @@ function four() {
 function five() {
   console.log('five !')
 }
+
+
+/* something wot has changed in master branch since branch1 was 
+created */
